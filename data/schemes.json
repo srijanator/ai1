@@ -1,0 +1,19 @@
+[
+  {
+    "name": "PM Kisan",
+    "description": "Support to small and marginal farmers",
+    "criteria": {
+      "occupation": "farmer",
+      "income": 150000
+    }
+  },
+  {
+    "name": "Scholarship for SC Students",
+    "description": "Scholarship for SC category students",
+    "criteria": {
+      "caste": "SC",
+      "income": 250000,
+      "age": 25
+    }
+  }
+]
